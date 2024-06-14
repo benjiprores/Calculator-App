@@ -1,0 +1,32 @@
+button {
+    width: 2em;
+    height: 1.9em;
+    margin: .1em;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-bottom: .6em;
+
+    &:active {
+        background-color: rgb(86, 86, 86);
+    }
+
+    
+
+}
+
+input {
+    text-align: right;
+    width: 10em;
+    margin-bottom: .5em;
+    margin-top: .5em;
+    outline: none;
+}
+
+.container {
+    width: 9.5em;
+    background-color: grey;
+    text-align: center;
+
+    
+}
